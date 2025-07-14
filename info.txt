@@ -1,1 +1,2 @@
 Ini proyek kolaborasi oleh User A
+Kontribusi baru dari User B (dengan benar)
